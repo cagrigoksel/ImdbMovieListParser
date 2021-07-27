@@ -1,0 +1,500 @@
+
+1.
+Avengers: Endgame
+(2019)
+Imdb Rating: 8.4
+
+2.
+The Shawshank Redemption
+(1994)
+Imdb Rating: 9.3
+
+3.
+The Godfather
+(1972)
+Imdb Rating: 9.2
+
+4.
+The Matrix
+(1999)
+Imdb Rating: 8.7
+
+5.
+The Dark Knight
+(2008)
+Imdb Rating: 9.0
+
+6.
+Pulp Fiction
+(1994)
+Imdb Rating: 8.9
+
+7.
+Fight Club
+(1999)
+Imdb Rating: 8.8
+
+8.
+Avengers: Infinity War
+(2018)
+Imdb Rating: 8.4
+
+9.
+Gisaengchung
+(2019)
+Imdb Rating: 8.6
+
+10.
+Joker
+(2019)
+Imdb Rating: 8.4
+
+11.
+The Lord of the Rings: The Fellowship of the Ring
+(2001)
+Imdb Rating: 8.8
+
+12.
+Alien
+(1979)
+Imdb Rating: 8.4
+
+13.
+Interstellar
+(2014)
+Imdb Rating: 8.6
+
+14.
+Forrest Gump
+(1994)
+Imdb Rating: 8.8
+
+15.
+Inception
+(2010)
+Imdb Rating: 8.8
+
+16.
+Inglourious Basterds
+(2009)
+Imdb Rating: 8.3
+
+17.
+Aliens
+(1986)
+Imdb Rating: 8.3
+
+18.
+Back to the Future
+(1985)
+Imdb Rating: 8.5
+
+19.
+Braveheart
+(1995)
+Imdb Rating: 8.3
+
+20.
+The Departed
+(2006)
+Imdb Rating: 8.5
+
+21.
+The Silence of the Lambs
+(1991)
+Imdb Rating: 8.6
+
+22.
+Terminator 2: Judgment Day
+(1991)
+Imdb Rating: 8.5
+
+23.
+Goodfellas
+(1990)
+Imdb Rating: 8.7
+
+24.
+American Beauty
+(1999)
+Imdb Rating: 8.3
+
+25.
+Django Unchained
+(2012)
+Imdb Rating: 8.4
+
+26.
+Saving Private Ryan
+(1998)
+Imdb Rating: 8.6
+
+27.
+Se7en
+(1995)
+Imdb Rating: 8.6
+
+28.
+Raiders of the Lost Ark
+(1981)
+Imdb Rating: 8.4
+
+29.
+Hamilton
+(2020)
+Imdb Rating: 8.4
+
+30.
+Schindler's List
+(1993)
+Imdb Rating: 8.9
+
+31.
+Gladiator
+(2000)
+Imdb Rating: 8.5
+
+32.
+Léon
+(1994)
+Imdb Rating: 8.5
+
+33.
+The Prestige
+(2006)
+Imdb Rating: 8.5
+
+34.
+The Dark Knight Rises
+(2012)
+Imdb Rating: 8.4
+
+35.
+Good Will Hunting
+(1997)
+Imdb Rating: 8.3
+
+36.
+Whiplash
+(2014)
+Imdb Rating: 8.5
+
+37.
+The Shining
+(1980)
+Imdb Rating: 8.4
+
+38.
+The Lord of the Rings: The Return of the King
+(2003)
+Imdb Rating: 8.9
+
+39.
+Sen to Chihiro no kamikakushi
+(2001)
+Imdb Rating: 8.6
+
+40.
+Reservoir Dogs
+(1992)
+Imdb Rating: 8.3
+
+41.
+The Godfather: Part II
+(1974)
+Imdb Rating: 9.0
+
+42.
+Requiem for a Dream
+(2000)
+Imdb Rating: 8.3
+
+43.
+The Green Mile
+(1999)
+Imdb Rating: 8.6
+
+44.
+Spider-Man: Into the Spider-Verse
+(2018)
+Imdb Rating: 8.4
+
+45.
+Memento
+(2000)
+Imdb Rating: 8.4
+
+46.
+Star Wars
+(1977)
+Imdb Rating: 8.6
+
+47.
+The Usual Suspects
+(1995)
+Imdb Rating: 8.5
+
+48.
+Apocalypse Now
+(1979)
+Imdb Rating: 8.4
+
+49.
+Idi i smotri
+(1985)
+Imdb Rating: 8.3
+
+50.
+12 Angry Men
+(1957)
+Imdb Rating: 9.0
+
+51.
+Eternal Sunshine of the Spotless Mind
+(2004)
+Imdb Rating: 8.3
+
+52.
+Jagten
+(2012)
+Imdb Rating: 8.3
+
+53.
+Oldeuboi
+(2003)
+Imdb Rating: 8.4
+
+54.
+The Lord of the Rings: The Two Towers
+(2002)
+Imdb Rating: 8.7
+
+55.
+One Flew Over the Cuckoo's Nest
+(1975)
+Imdb Rating: 8.7
+
+56.
+Coco
+(I) (2017)
+Imdb Rating: 8.4
+
+57.
+The Pianist
+(2002)
+Imdb Rating: 8.5
+
+58.
+Il buono, il brutto, il cattivo
+(1966)
+Imdb Rating: 8.8
+
+59.
+La vita è bella
+(1997)
+Imdb Rating: 8.6
+
+60.
+American History X
+(1998)
+Imdb Rating: 8.5
+
+61.
+The Lion King
+(1994)
+Imdb Rating: 8.5
+
+62.
+Rear Window
+(1954)
+Imdb Rating: 8.5
+
+63.
+2001: A Space Odyssey
+(1968)
+Imdb Rating: 8.3
+
+64.
+The Intouchables
+(2011)
+Imdb Rating: 8.5
+
+65.
+Once Upon a Time in America
+(1984)
+Imdb Rating: 8.4
+
+66.
+Kimi no na wa.
+(2016)
+Imdb Rating: 8.4
+
+67.
+Cidade de Deus
+(2002)
+Imdb Rating: 8.6
+
+68.
+Psycho
+(1960)
+Imdb Rating: 8.5
+
+69.
+Once Upon a Time in the West
+(1968)
+Imdb Rating: 8.5
+
+70.
+Toy Story
+(1995)
+Imdb Rating: 8.3
+
+71.
+Vertigo
+(1958)
+Imdb Rating: 8.3
+
+72.
+Casablanca
+(1942)
+Imdb Rating: 8.5
+
+73.
+Star Wars: Episode V - The Empire Strikes Back
+(1980)
+Imdb Rating: 8.7
+
+74.
+Amadeus
+(1984)
+Imdb Rating: 8.3
+
+75.
+Shichinin no samurai
+(1954)
+Imdb Rating: 8.6
+
+76.
+Star Wars: Episode VI - Return of the Jedi
+(1983)
+Imdb Rating: 8.3
+
+77.
+Capharnaüm
+(2018)
+Imdb Rating: 8.4
+
+78.
+3 Idiots
+(2009)
+Imdb Rating: 8.4
+
+79.
+WALL·E
+(2008)
+Imdb Rating: 8.4
+
+80.
+The Lives of Others
+(2006)
+Imdb Rating: 8.4
+
+81.
+Hotaru no haka
+(1988)
+Imdb Rating: 8.5
+
+82.
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+(1964)
+Imdb Rating: 8.4
+
+83.
+Mononoke-hime
+(1997)
+Imdb Rating: 8.4
+
+84.
+Citizen Kane
+(1941)
+Imdb Rating: 8.3
+
+85.
+North by Northwest
+(1959)
+Imdb Rating: 8.3
+
+86.
+Nuovo Cinema Paradiso
+(1988)
+Imdb Rating: 8.5
+
+87.
+It's a Wonderful Life
+(1946)
+Imdb Rating: 8.6
+
+88.
+Das Boot
+(1981)
+Imdb Rating: 8.3
+
+89.
+Sunset Blvd.
+(1950)
+Imdb Rating: 8.4
+
+90.
+Singin' in the Rain
+(1952)
+Imdb Rating: 8.3
+
+91.
+Seppuku
+(1962)
+Imdb Rating: 8.6
+
+92.
+M - Eine Stadt sucht einen Mörder
+(1931)
+Imdb Rating: 8.3
+
+93.
+Paths of Glory
+(1957)
+Imdb Rating: 8.4
+
+94.
+Modern Times
+(1936)
+Imdb Rating: 8.5
+
+95.
+Witness for the Prosecution
+(1957)
+Imdb Rating: 8.4
+
+96.
+Taare Zameen Par
+(2007)
+Imdb Rating: 8.4
+
+97.
+The Great Dictator
+(1940)
+Imdb Rating: 8.4
+
+98.
+Pather Panchali
+(1955)
+Imdb Rating: 8.5
+
+99.
+Tengoku to jigoku
+(1963)
+Imdb Rating: 8.4
+
+100.
+City Lights
+(1931)
+Imdb Rating: 8.5
